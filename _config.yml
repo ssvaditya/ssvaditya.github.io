@@ -12,7 +12,7 @@ title                    : "Aditya's Homepage"
 title_separator          : "-"
 name                     : &name "Aditya Suri"
 description              : &description "Machine Learning Enthusiast"
-url                      : https://adityasuri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ssvaditya.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ssvaditya/adityasuri"
 
