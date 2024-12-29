@@ -21,7 +21,7 @@ repository: "ssvaditya/ssvaditya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "2.png"
+  avatar: "2.jpeg"
   name: "Aditya Suri"
   pronouns: "he/him"
   bio: "Human Augmentation and Human Machine Interaction"
