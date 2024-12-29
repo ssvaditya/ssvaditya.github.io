@@ -1,6 +1,6 @@
 ---
-title: "AI and False Memories"
-excerpt: "Impact of Conversational AI on Memory Formation<br/><img src='/images/falesmem.jpg'>"
+title: "AI and False Memories (Bachelor's Thesis)"
+excerpt: "Impact of Conversational AI on Memory Formation<br/><img src='/images/falesmem.png'>"
 collection: portfolio
 ---
 
