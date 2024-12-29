@@ -4,5 +4,5 @@ excerpt: "Personalised Tutor utilising Reinforcement Learning <br/><img src='/im
 collection: portfolio
 ---
 
-[Project Link](https://www.cmu.edu/scs/robotutor/global-learning-xprize/index.html)
-[Code](https://github.com/RoboTutorLLC/RoboTutor_2020)
+- [Project Link](https://www.cmu.edu/scs/robotutor/global-learning-xprize/index.html)
+- [Code](https://github.com/RoboTutorLLC/RoboTutor_2020)
