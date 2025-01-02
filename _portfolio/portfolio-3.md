@@ -4,4 +4,5 @@ excerpt: "MemPal: Wearable Memory Assistant for Aging Population <br/><img src='
 collection: portfolio
 ---
 
-[Project Link](https://www.media.mit.edu/projects/mempal/overview/)
+- [Project Link](https://www.media.mit.edu/projects/mempal/overview/)
+- [Code](https://github.com/ssvaditya/MemPal)
